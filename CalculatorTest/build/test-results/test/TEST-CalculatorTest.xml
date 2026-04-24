@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculatorTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2025-10-20T13:00:20.744Z" hostname="DESKTOP-P67MF4F" time="0.022">
+  <properties/>
+  <testcase name="squared()" classname="CalculatorTest" time="0.012"/>
+  <testcase name="whenInputIncorrectValueThenThrowException()" classname="CalculatorTest" time="0.001"/>
+  <testcase name="when100AsStringDivision2AsStringResult50()" classname="CalculatorTest" time="0.002"/>
+  <testcase name="whenAddOneHandedToFifteenThenResultOneHandedFifteen()" classname="CalculatorTest" time="0.001"/>
+  <testcase name="division()" classname="CalculatorTest" time="0.001"/>
+  <testcase name="when10AddTo10AsStringThenResult20()" classname="CalculatorTest" time="0.001"/>
+  <testcase name="multiply()" classname="CalculatorTest" time="0.0"/>
+  <testcase name="whenAddTenToFiveThenResultFifteen()" classname="CalculatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CarSetTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-01-16T11:59:20.145Z" hostname="DESKTOP-P67MF4F" time="0.013">
+  <properties/>
+  <testcase name="whenAdd3SimilarObjectsThenSizeIncreaseBy1()" classname="CarSetTest" time="0.013"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
